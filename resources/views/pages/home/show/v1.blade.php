@@ -75,6 +75,13 @@
                         </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>
+                <x-competence.container.v1>
+                    <x-slot name="title">
+                        Front-end
+                    </x-slot>
+                    <x-slot name="content">
+                    </x-slot>
+                </x-competence.container.v1>
             </x-slot>
         </x-section.v1>
     </x-main.v1>

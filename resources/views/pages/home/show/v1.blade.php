@@ -88,6 +88,14 @@
                                     HTML5
                                 </x-slot>
                         </x-competence.h-scroll.v1>
+                        <x-competence.h-scroll.v1>
+                                <x-slot name="icon">
+                                    <i class="fa-brands fa-css3-alt text-[3rem] lg:text-[6rem]" aria-hidden="true"></i>
+                                </x-slot>
+                                <x-slot name="title">
+                                    CSS3
+                                </x-slot>
+                        </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>
             </x-slot>

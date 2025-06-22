@@ -14,3 +14,13 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+.scrollbar-none {
+    scrollbar-width: none;
+    scrollbar-color: transparent transparent;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}

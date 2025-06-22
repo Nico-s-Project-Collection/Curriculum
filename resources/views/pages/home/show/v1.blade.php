@@ -107,6 +107,14 @@
                             </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
                         <x-competence.h-scroll.v1>
+                            <x-competence.item.v1>
+                                <x-slot name="icon">
+                                    <i class="fa-brands fa-bootstrap text-[3rem] lg:text-[6rem]" aria-hidden="true"></i>
+                                </x-slot>
+                                <x-slot name="title">
+                                    Bootstrap
+                                </x-slot>
+                            </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>

@@ -106,6 +106,8 @@
                                 </x-slot>
                             </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
+                        <x-competence.h-scroll.v1>
+                        </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>
             </x-slot>

@@ -7,7 +7,7 @@
         <title>Nicolas R. Lopes</title>
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body>
+    <body class="mx-auto max-w-screen-xl">
         {{ $slot }}
     </body>
 </html>

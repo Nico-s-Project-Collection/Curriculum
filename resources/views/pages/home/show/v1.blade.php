@@ -125,6 +125,21 @@
                                     Tailwind CSS
                                 </x-slot>
                             </x-competence.item.v1>
+                            <x-competence.item.v1>
+                                <x-slot name="icon">
+                                    <svg class="h-12 lg:h-24 w-16 lg:w-32 min0w-16 lg:min-w-32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200px" height="128px" viewBox="0 0 200 128" version="1.1">
+                                        <g id="Custom-Preset-4-Copy-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                            <g id="Group-4" transform="translate(0.000000, 12.000000)">
+                                                <polygon class="fill-black" id="Path" fill="none" points="149.520377 10.3027772 189.392477 50 149.520377 89.6972228 109.648276 50"></polygon>
+                                                <polygon class="fill-black" id="Path" fill="none" points="49.8401255 10.3027772 132.499974 92.6000822 52.7557729 92.6000822 9.96802511 50"></polygon>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </x-slot>
+                                <x-slot name="title">
+                                    Alpine JS
+                                </x-slot>
+                            </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>

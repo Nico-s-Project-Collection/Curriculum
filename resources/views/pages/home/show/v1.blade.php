@@ -150,6 +150,16 @@
                             </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
                         <x-competence.h-scroll.v1>
+                            <x-competence.item.v1>
+                                <x-slot name="icon">
+                                    <svg class="h-12 lg:h-24 w-16 lg:w-32 min0w-16 lg:min-w-32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 24">
+                                        <path class="fill-black" d="M 16 0 L 16 8 L 8 8 L 0 0 Z M 0 8 L 8 8 L 16 16 L 8 16 L 8 24 L 0 16 Z" fill="none"></path>
+                                    </svg>
+                                </x-slot>
+                                <x-slot name="title">
+                                    Framer
+                                </x-slot>
+                            </x-competence.item.v1>
                         </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>

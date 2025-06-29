@@ -176,6 +176,8 @@
                         Back-end
                     </x-slot>
                     <x-slot name="content">
+                        <x-competence.h-scroll.v1>
+                        </x-competence.h-scroll.v1>
                     </x-slot>
                 </x-competence.container.v1>
             </x-slot>

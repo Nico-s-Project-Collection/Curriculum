@@ -6,7 +6,16 @@
                 Redes Sociais
             </x-slot>
             <x-slot name="content">
-                <x-competence.h-scroll.v1></x-competence.h-scroll.v1>
+                <x-competence.h-scroll.v1>
+                    <x-competence.item.v1>
+                        <x-slot name="icon">
+                            <i class="fa-brands fa-github text-[3rem] lg:text-[6rem]" aria-hidden="true"></i>
+                        </x-slot>
+                        <x-slot name="title">
+                            GitHub
+                        </x-slot>
+                    </x-competence.item.v1>
+                </x-competence.h-scroll.v1>
             </x-slot>
         </x-section.v1>
         <x-section.v1>

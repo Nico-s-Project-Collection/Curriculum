@@ -7,14 +7,14 @@
             </x-slot>
             <x-slot name="content">
                 <x-h-scroll.container.v1>
-                    <x-h-scroll.item.v1>
+                    <x-h-scroll.item.v2 :href="'https://github.com/nicolasK1vP7?tab=overview&from=2025-06-01&to=2025-06-13'">
                         <x-slot name="icon">
                             <i class="fa-brands fa-github text-[3rem] lg:text-[6rem]" aria-hidden="true"></i>
                         </x-slot>
                         <x-slot name="title">
                             GitHub
                         </x-slot>
-                    </x-h-scroll.item.v1>
+                    </x-h-scroll.item.v2>
                 </x-h-scroll.container.v1>
             </x-slot>
         </x-section.v1>

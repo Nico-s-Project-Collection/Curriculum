@@ -22,7 +22,9 @@
             <x-slot name="title">
                 Experiência
             </x-slot>
-            <x-slot name="content"></x-slot>
+            <x-slot name="content">
+                <ul class="px-4 lg:px-8"></ul>
+            </x-slot>
         </x-section.v1>
         <x-section.v1>
             <x-slot name="title">

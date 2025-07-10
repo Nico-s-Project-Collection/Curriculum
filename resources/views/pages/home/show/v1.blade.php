@@ -25,6 +25,7 @@
             <x-slot name="content">
                 <ul class="px-4 lg:px-8">
                     <x-job.item.v1 :position="'Jovem Aprendiz Administrativo'" :enterprise="'Grupo DDM'" :period="'Fev de 2024 - Mar de 2024'"></x-job.item.v1>
+                    <x-job.item.v1 :position="'Estagiário'"                    :enterprise="'Grupo DDM'" :period="'Abr de 2024 - Mai de 2024'"></x-job.item.v1>
                 </ul>
             </x-slot>
         </x-section.v1>

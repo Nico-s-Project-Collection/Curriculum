@@ -44,6 +44,12 @@
             <x-slot name="content">
                 <x-competence.container.v1>
                     <x-slot name="title">
+                        Administração
+                    </x-slot>
+                    <x-slot name="content"></x-slot>
+                </x-competence.container.v1>
+                <x-competence.container.v1>
+                    <x-slot name="title">
                         UX & UI Design
                     </x-slot>
                     <x-slot name="content">

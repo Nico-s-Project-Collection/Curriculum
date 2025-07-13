@@ -46,7 +46,9 @@
                     <x-slot name="title">
                         Administração
                     </x-slot>
-                    <x-slot name="content"></x-slot>
+                    <x-slot name="content">
+                        <x-h-scroll.container.v1></x-h-scroll.container.v1>
+                    </x-slot>
                 </x-competence.container.v1>
                 <x-competence.container.v1>
                     <x-slot name="title">

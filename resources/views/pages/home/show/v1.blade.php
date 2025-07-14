@@ -47,7 +47,14 @@
                         Administração
                     </x-slot>
                     <x-slot name="content">
-                        <x-h-scroll.container.v1></x-h-scroll.container.v1>
+                        <x-h-scroll.container.v1>
+                            <x-h-scroll.item.v1>
+                                <x-slot name="icon"></x-slot>
+                                <x-slot name="title">
+                                    Microsoft Excel
+                                </x-slot>
+                            </x-h-scroll.item.v1>
+                        </x-h-scroll.container.v1>
                     </x-slot>
                 </x-competence.container.v1>
                 <x-competence.container.v1>

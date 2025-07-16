@@ -57,6 +57,12 @@
                             <x-h-scroll.item.v1>
                                 <x-slot name="icon"></x-slot>
                                 <x-slot name="title">
+                                    Microsoft Power BI
+                                </x-slot>
+                            </x-h-scroll.item.v1>
+                            <x-h-scroll.item.v1>
+                                <x-slot name="icon"></x-slot>
+                                <x-slot name="title">
                                     Microsoft Power Point
                                 </x-slot>
                             </x-h-scroll.item.v1>

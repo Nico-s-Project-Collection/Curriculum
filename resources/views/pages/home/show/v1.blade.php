@@ -59,7 +59,18 @@
                                 </x-slot>
                             </x-h-scroll.item.v1>
                             <x-h-scroll.item.v1>
-                                <x-slot name="icon"></x-slot>
+                                <x-slot name="icon">
+                                    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+                                        <svg class="h-12 lg:h-24 w-16 lg:w-32 min0w-16 lg:min-w-32" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" version="1.1" id="svg19655">
+                                            <g id="g19611" transform="translate(-200)">
+                                                <path d="m 1400,66.75 v 1466.5 c 0,36.86 -29.89,66.75 -66.75,66.75 H 916.75 C 879.885,1600 850,1570.11 850,1533.25 V 66.75 C 850,29.885 879.885,0 916.75,0 h 416.5 c 36.87,0 66.75,29.8849 66.75,66.75 z" fill="#000000" id="path19603" />
+                                                <g filter="url(#filter0_dd)" id="g19607">
+                                                    <path d="M 1075,466.667 V 1600 H 525 V 466.667 C 525,429.848 554.848,400 591.667,400 h 416.663 c 36.82,0 66.67,29.848 66.67,66.667 z" fill="#000000" id="path19605" />
+                                                </g>
+                                                <path d="m 200,866.667 v 666.663 c 0,36.82 29.848,66.67 66.667,66.67 H 750 V 866.667 C 750,829.848 720.152,800 683.333,800 H 266.667 C 229.848,800 200,829.848 200,866.667 Z" fill="#000000" id="path19609" />
+                                            </g>
+                                        </svg>
+                                </x-slot>
                                 <x-slot name="title">
                                     Microsoft Power BI
                                 </x-slot>
